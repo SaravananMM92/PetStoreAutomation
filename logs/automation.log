@@ -378,3 +378,18 @@
 18:22:06.566 [main] INFO  api.test.UserTests2 - ************ Update completed *************
 18:22:06.569 [main] INFO  api.test.UserTests2 - ************ Deleting a user *************
 18:22:07.762 [main] INFO  api.test.UserTests2 - ************ Delete user completed *************
+18:23:58.892 [main] DEBUG api.test.UserTests2 - **** Debugging ****
+18:23:58.895 [main] INFO  api.test.UserTests2 - ************ Creating user *************
+18:24:00.700 [main] INFO  api.test.UserTests2 - ************ User is created *************
+18:24:00.703 [main] INFO  api.test.UserTests2 - ************ Reading a user *************
+18:24:01.761 [main] INFO  api.test.UserTests2 - ************ User reading completed *************
+18:24:01.764 [main] INFO  api.test.UserTests2 - ************ Updating user *************
+18:24:03.957 [main] INFO  api.test.UserTests2 - ************ Deleting a user *************
+18:26:07.797 [main] DEBUG api.test.UserTests - **** Debugging ****
+18:26:07.800 [main] INFO  api.test.UserTests - ************ Creating user *************
+18:26:09.560 [main] INFO  api.test.UserTests - ************ User is created *************
+18:26:09.564 [main] INFO  api.test.UserTests - ************ Reading a user *************
+18:26:10.760 [main] INFO  api.test.UserTests - ************ User reading completed *************
+18:26:10.764 [main] INFO  api.test.UserTests - ************ Updating user *************
+18:26:13.332 [main] INFO  api.test.UserTests - ************ Deleting a user *************
+18:26:14.593 [main] INFO  api.test.UserTests - ************ Delete user completed *************
