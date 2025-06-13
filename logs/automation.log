@@ -360,3 +360,12 @@
 16:29:52.653 [main] INFO  api.test.UserTests2 - ************ Update completed *************
 16:29:52.655 [main] INFO  api.test.UserTests2 - ************ Deleting a user *************
 16:29:53.678 [main] INFO  api.test.UserTests2 - ************ Delete user completed *************
+17:23:06.031 [main] DEBUG api.test.UserTests2 - **** Debugging ****
+17:23:06.035 [main] INFO  api.test.UserTests2 - ************ Creating user *************
+17:23:08.765 [main] INFO  api.test.UserTests2 - ************ User is created *************
+17:23:08.769 [main] INFO  api.test.UserTests2 - ************ Reading a user *************
+17:23:09.859 [main] INFO  api.test.UserTests2 - ************ User reading completed *************
+17:23:09.863 [main] INFO  api.test.UserTests2 - ************ Updating user *************
+17:23:12.136 [main] INFO  api.test.UserTests2 - ************ Update completed *************
+17:23:12.140 [main] INFO  api.test.UserTests2 - ************ Deleting a user *************
+17:23:13.311 [main] INFO  api.test.UserTests2 - ************ Delete user completed *************
