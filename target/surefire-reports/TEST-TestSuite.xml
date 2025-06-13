@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="7.846" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="6.873" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="http.proxyHost" value="127.0.0.1"/>
     <property name="java.specification.version" value="23"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20250613172305463_3.jar /Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/surefire 2025-06-13T17-23-05_432-jvmRun1 surefire-20250613172305463_1tmp surefire_0-20250613172305463_2tmp"/>
+    <property name="sun.java.command" value="/Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20250613182200860_3.jar /Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/surefire 2025-06-13T18-22-00_827-jvmRun1 surefire-20250613182200860_1tmp surefire_0-20250613182200860_2tmp"/>
     <property name="http.nonProxyHosts" value="127.0.0.1|127.0.0.0/8|*.127.0.0.0/8|::1|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|avcliq.zoho.com|*.avcliq.zoho.com|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|zohopublic.com|*.zohopublic.com|zohopublic.in|*.zohopublic.in|zohopublic.eu|*.zohopublic.eu|zohopublic.com.au|*.zohopublic.com.au|zohopublic.jp|*.zohopublic.jp|zohopublic.ca|*.zohopublic.ca|zohopublic.sa|*.zohopublic.sa|us4-wss-accl.zoho.com|*.us4-wss-accl.zoho.com|us4-wss.zoho.com|*.us4-wss.zoho.com|us3-wss-accl.zoho.com|*.us3-wss-accl.zoho.com|us3-wss.zoho.com|*.us3-wss.zoho.com|in2-wss.zoho.in|*.in2-wss.zoho.in|in1-wss.zoho.in|*.in1-wss.zoho.in|eu1-wss.zoho.eu|*.eu1-wss.zoho.eu|eu2-wss.zoho.eu|*.eu2-wss.zoho.eu|cn2-wss.zoho.com.cn|*.cn2-wss.zoho.com.cn|cn3-wss.zoho.com.cn|*.cn3-wss.zoho.com.cn|au1-wss.zoho.com.au|*.au1-wss.zoho.com.au|au2-wss.zoho.com.au|*.au2-wss.zoho.com.au|jp1-wss.zoho.jp|*.jp1-wss.zoho.jp|jp2-wss.zoho.jp|*.jp2-wss.zoho.jp|ca1-wss.zohocloud.ca|*.ca1-wss.zohocloud.ca|ca2-wss.zohocloud.ca|*.ca2-wss.zohocloud.ca|sa1-wss.zoho.sa|*.sa1-wss.zoho.sa|sa2-wss.zoho.sa|*.sa2-wss.zoho.sa|in1-wss.arattai.in|*.in1-wss.arattai.in|in2-wss.arattai.in|*.in2-wss.arattai.in|preus4-wss.zoho.com|*.preus4-wss.zoho.com|preus3-wss.zoho.com|*.preus3-wss.zoho.com|us4-wss-pop.zoho.com|*.us4-wss-pop.zoho.com|us3-wss-pop.zoho.com|*.us3-wss-pop.zoho.com|in2-wss-pop.zoho.in|*.in2-wss-pop.zoho.in|in1-wss-pop.zoho.in|*.in1-wss-pop.zoho.in|eu1-wss-pop.zoho.eu|*.eu1-wss-pop.zoho.eu|eu2-wss-pop.zoho.eu|*.eu2-wss-pop.zoho.eu|cn2-wss-pop.zoho.com.cn|*.cn2-wss-pop.zoho.com.cn|cn3-wss-pop.zoho.com.cn|*.cn3-wss-pop.zoho.com.cn|au1-wss-pop.zoho.com.au|*.au1-wss-pop.zoho.com.au|au2-wss-pop.zoho.com.au|*.au2-wss-pop.zoho.com.au|jp1-wss-pop.zoho.jp|*.jp1-wss-pop.zoho.jp|jp2-wss-pop.zoho.jp|*.jp2-wss-pop.zoho.jp|ca1-wss-pop.zohocloud.ca|*.ca1-wss-pop.zohocloud.ca|ca2-wss-pop.zohocloud.ca|*.ca2-wss-pop.zohocloud.ca|sa1-wss-pop.zoho.sa|*.sa1-wss-pop.zoho.sa|sa2-wss-pop.zoho.sa|*.sa2-wss-pop.zoho.sa|in2-prewss-pop.zoho.in|*.in2-prewss-pop.zoho.in|in1-prewss-pop.zoho.in|*.in1-prewss-pop.zoho.in|us4-wss-vod.zoho.com|*.us4-wss-vod.zoho.com|us3-wss-vod.zoho.com|*.us3-wss-vod.zoho.com|in2-wss-vod.zoho.in|*.in2-wss-vod.zoho.in|in1-wss-vod.zoho.in|*.in1-wss-vod.zoho.in|eu1-wss-vod.zoho.eu|*.eu1-wss-vod.zoho.eu|eu2-wss-vod.zoho.eu|*.eu2-wss-vod.zoho.eu|cn2-wss-vod.zoho.com.cn|*.cn2-wss-vod.zoho.com.cn|cn3-wss-vod.zoho.com.cn|*.cn3-wss-vod.zoho.com.cn|au1-wss-vod.zoho.com.au|*.au1-wss-vod.zoho.com.au|au2-wss-vod.zoho.com.au|*.au2-wss-vod.zoho.com.au|jp1-wss-vod.zoho.jp|*.jp1-wss-vod.zoho.jp|jp2-wss-vod.zoho.jp|*.jp2-wss-vod.zoho.jp|ca1-wss-vod.zohocloud.ca|*.ca1-wss-vod.zohocloud.ca|ca2-wss-vod.zohocloud.ca|*.ca2-wss-vod.zohocloud.ca|sa1-wss-vod.zoho.sa|*.sa1-wss-vod.zoho.sa|sa2-wss-vod.zoho.sa|*.sa2-wss-vod.zoho.sa|in1-wss-vod.arattai.in|*.in1-wss-vod.arattai.in|in2-wss-vod.arattai.in|*.in2-wss-vod.arattai.in|us4-prewss-vod.zoho.com|*.us4-prewss-vod.zoho.com|us3-prewss-vod.zoho.com|*.us3-prewss-vod.zoho.com|zohoconference.com|*.zohoconference.com"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/test-classes:/Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/classes:/Users/saravana-2405/.m2/repository/io/rest-assured/rest-assured/5.1.1/rest-assured-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy-xml/4.0.1/groovy-xml-4.0.1.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/saravana-2405/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/saravana-2405/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/saravana-2405/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/xml-path/5.1.1/xml-path-5.1.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/json-path/5.1.1/json-path-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy-json/4.0.1/groovy-json-4.0.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/rest-assured-common/5.1.1/rest-assured-common-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/json/json/20220320/json-20220320.jar:/Users/saravana-2405/.m2/repository/org/testng/testng/7.6.1/testng-7.6.1.jar:/Users/saravana-2405/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/saravana-2405/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/saravana-2405/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/saravana-2405/.m2/repository/org/webjars/jquery/3.6.0/jquery-3.6.0.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-apis/8.3.1/scribejava-apis-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-core/8.3.1/scribejava-core-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-java8/8.3.1/scribejava-java8-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/json-schema-validator/5.1.1/json-schema-validator-5.1.1.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14.jar:/Users/saravana-2405/.m2/repository/com/google/guava/guava/28.2-android/guava-28.2-android.jar:/Users/saravana-2405/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/saravana-2405/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/saravana-2405/.m2/repository/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5.jar:/Users/saravana-2405/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/Users/saravana-2405/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/btf/1.3/btf-1.3.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar:/Users/saravana-2405/.m2/repository/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar:/Users/saravana-2405/.m2/repository/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar:/Users/saravana-2405/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/saravana-2405/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar:/Users/saravana-2405/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/Users/saravana-2405/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/saravana-2405/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/saravana-2405/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/saravana-2405/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/saravana-2405/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/saravana-2405/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/saravana-2405/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/saravana-2405/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/saravana-2405/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/saravana-2405/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi/5.2.2/poi-5.2.2.jar:/Users/saravana-2405/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/saravana-2405/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/saravana-2405/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar:/Users/saravana-2405/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/saravana-2405/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/saravana-2405/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/Users/saravana-2405/.m2/repository/org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar:"/>
@@ -28,12 +28,13 @@
     <property name="file.separator" value="/"/>
     <property name="https.proxyHost" value="127.0.0.1"/>
     <property name="basedir" value="/Users/saravana-2405/eclipse-workspace/PetStoreAutomation"/>
+    <property name="style.color" value="always"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20250613172305463_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/saravana-2405/eclipse-workspace/PetStoreAutomation/target/surefire/surefirebooter-20250613182200860_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="127.0.0.1|127.0.0.0/8|*.127.0.0.0/8|::1|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|avcliq.zoho.com|*.avcliq.zoho.com|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|zohopublic.com|*.zohopublic.com|zohopublic.in|*.zohopublic.in|zohopublic.eu|*.zohopublic.eu|zohopublic.com.au|*.zohopublic.com.au|zohopublic.jp|*.zohopublic.jp|zohopublic.ca|*.zohopublic.ca|zohopublic.sa|*.zohopublic.sa|us4-wss-accl.zoho.com|*.us4-wss-accl.zoho.com|us4-wss.zoho.com|*.us4-wss.zoho.com|us3-wss-accl.zoho.com|*.us3-wss-accl.zoho.com|us3-wss.zoho.com|*.us3-wss.zoho.com|in2-wss.zoho.in|*.in2-wss.zoho.in|in1-wss.zoho.in|*.in1-wss.zoho.in|eu1-wss.zoho.eu|*.eu1-wss.zoho.eu|eu2-wss.zoho.eu|*.eu2-wss.zoho.eu|cn2-wss.zoho.com.cn|*.cn2-wss.zoho.com.cn|cn3-wss.zoho.com.cn|*.cn3-wss.zoho.com.cn|au1-wss.zoho.com.au|*.au1-wss.zoho.com.au|au2-wss.zoho.com.au|*.au2-wss.zoho.com.au|jp1-wss.zoho.jp|*.jp1-wss.zoho.jp|jp2-wss.zoho.jp|*.jp2-wss.zoho.jp|ca1-wss.zohocloud.ca|*.ca1-wss.zohocloud.ca|ca2-wss.zohocloud.ca|*.ca2-wss.zohocloud.ca|sa1-wss.zoho.sa|*.sa1-wss.zoho.sa|sa2-wss.zoho.sa|*.sa2-wss.zoho.sa|in1-wss.arattai.in|*.in1-wss.arattai.in|in2-wss.arattai.in|*.in2-wss.arattai.in|preus4-wss.zoho.com|*.preus4-wss.zoho.com|preus3-wss.zoho.com|*.preus3-wss.zoho.com|us4-wss-pop.zoho.com|*.us4-wss-pop.zoho.com|us3-wss-pop.zoho.com|*.us3-wss-pop.zoho.com|in2-wss-pop.zoho.in|*.in2-wss-pop.zoho.in|in1-wss-pop.zoho.in|*.in1-wss-pop.zoho.in|eu1-wss-pop.zoho.eu|*.eu1-wss-pop.zoho.eu|eu2-wss-pop.zoho.eu|*.eu2-wss-pop.zoho.eu|cn2-wss-pop.zoho.com.cn|*.cn2-wss-pop.zoho.com.cn|cn3-wss-pop.zoho.com.cn|*.cn3-wss-pop.zoho.com.cn|au1-wss-pop.zoho.com.au|*.au1-wss-pop.zoho.com.au|au2-wss-pop.zoho.com.au|*.au2-wss-pop.zoho.com.au|jp1-wss-pop.zoho.jp|*.jp1-wss-pop.zoho.jp|jp2-wss-pop.zoho.jp|*.jp2-wss-pop.zoho.jp|ca1-wss-pop.zohocloud.ca|*.ca1-wss-pop.zohocloud.ca|ca2-wss-pop.zohocloud.ca|*.ca2-wss-pop.zohocloud.ca|sa1-wss-pop.zoho.sa|*.sa1-wss-pop.zoho.sa|sa2-wss-pop.zoho.sa|*.sa2-wss-pop.zoho.sa|in2-prewss-pop.zoho.in|*.in2-prewss-pop.zoho.in|in1-prewss-pop.zoho.in|*.in1-prewss-pop.zoho.in|us4-wss-vod.zoho.com|*.us4-wss-vod.zoho.com|us3-wss-vod.zoho.com|*.us3-wss-vod.zoho.com|in2-wss-vod.zoho.in|*.in2-wss-vod.zoho.in|in1-wss-vod.zoho.in|*.in1-wss-vod.zoho.in|eu1-wss-vod.zoho.eu|*.eu1-wss-vod.zoho.eu|eu2-wss-vod.zoho.eu|*.eu2-wss-vod.zoho.eu|cn2-wss-vod.zoho.com.cn|*.cn2-wss-vod.zoho.com.cn|cn3-wss-vod.zoho.com.cn|*.cn3-wss-vod.zoho.com.cn|au1-wss-vod.zoho.com.au|*.au1-wss-vod.zoho.com.au|au2-wss-vod.zoho.com.au|*.au2-wss-vod.zoho.com.au|jp1-wss-vod.zoho.jp|*.jp1-wss-vod.zoho.jp|jp2-wss-vod.zoho.jp|*.jp2-wss-vod.zoho.jp|ca1-wss-vod.zohocloud.ca|*.ca1-wss-vod.zohocloud.ca|ca2-wss-vod.zohocloud.ca|*.ca2-wss-vod.zohocloud.ca|sa1-wss-vod.zoho.sa|*.sa1-wss-vod.zoho.sa|sa2-wss-vod.zoho.sa|*.sa2-wss-vod.zoho.sa|in1-wss-vod.arattai.in|*.in1-wss-vod.arattai.in|in2-wss-vod.arattai.in|*.in2-wss-vod.arattai.in|us4-prewss-vod.zoho.com|*.us4-prewss-vod.zoho.com|us3-prewss-vod.zoho.com|*.us3-prewss-vod.zoho.com|zohoconference.com|*.zohoconference.com"/>
     <property name="java.runtime.version" value="23.0.2"/>
@@ -63,9 +64,9 @@
     <property name="java.class.version" value="67.0"/>
     <property name="http.proxyPort" value="3128"/>
   </properties>
-  <testcase name="testPostUser" classname="api.test.UserTests2" time="2.734">
+  <testcase name="testPostUser" classname="api.test.UserTests2" time="1.667">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Fri, 13 Jun 2025 11:53:08 GMT
+Date: Fri, 13 Jun 2025 12:52:02 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -85,9 +86,9 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testGetUserByName" classname="api.test.UserTests2" time="1.093">
+  <testcase name="testGetUserByName" classname="api.test.UserTests2" time="1.165">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Fri, 13 Jun 2025 11:53:09 GMT
+Date: Fri, 13 Jun 2025 12:52:04 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -98,24 +99,24 @@ Server: Jetty(9.2.9.v20150224)
 
 {
     "id": 1067599825,
-    "username": "ivey.romaguera",
-    "firstName": "Allegra",
-    "lastName": "Becker",
-    "email": "stephen.ziemann@example.com",
-    "password": "o3ztsq",
-    "phone": "(573) 572-5394",
+    "username": "araceli.okeefe",
+    "firstName": "Arlen",
+    "lastName": "Terry",
+    "email": "kayce.schowalter@example.com",
+    "password": "jve4c",
+    "phone": "635.031.3914",
     "userStatus": 0
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testUpdateUserByName" classname="api.test.UserTests2" time="2.275">
+  <testcase name="testUpdateUserByName" classname="api.test.UserTests2" time="2.346">
     <system-out><![CDATA[{
     "code": 200,
     "type": "unknown",
     "message": "1067599825"
 }
 HTTP/1.1 200 OK
-Date: Fri, 13 Jun 2025 11:53:11 GMT
+Date: Fri, 13 Jun 2025 12:52:06 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -126,15 +127,15 @@ Server: Jetty(9.2.9.v20150224)
 
 {
     "id": 1067599825,
-    "username": "ivey.romaguera",
-    "firstName": "Allegra",
-    "lastName": "Becker",
-    "email": "stephen.ziemann@example.com",
-    "password": "o3ztsq",
-    "phone": "(573) 572-5394",
+    "username": "araceli.okeefe",
+    "firstName": "Arlen",
+    "lastName": "Terry",
+    "email": "kayce.schowalter@example.com",
+    "password": "jve4c",
+    "phone": "635.031.3914",
     "userStatus": 0
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteUserByName" classname="api.test.UserTests2" time="1.173"/>
+  <testcase name="testDeleteUserByName" classname="api.test.UserTests2" time="1.196"/>
 </testsuite>
